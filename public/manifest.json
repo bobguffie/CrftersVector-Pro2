@@ -1,0 +1,21 @@
+{
+  "name": "Crafters Vector Pro",
+  "short_name": "CraftersVector",
+  "description": "Professional vector design tool for crafters.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
