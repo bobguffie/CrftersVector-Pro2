@@ -11,7 +11,7 @@ export async function generateImage(prompt: string, apiKey?: string): Promise<st
     }
     const ai = new GoogleGenAI({ apiKey: keyToUse });
     const response = await ai.models.generateContent({
-      model: "gemini-2.5-flash",
+      model: "gemini-2.5-flash-image",
       contents: [{ parts: [{ text: prompt }] }],
     });
 
