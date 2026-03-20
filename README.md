@@ -1,8 +1,9 @@
-![App Screenshot](screenshot.png)
+
 🎨 CrftersVector-Pro2: Desktop Vector Studio
 Powered by Gemini AI | Local-First | Professional SVG Generation
 
 CrftersVector-Pro2 is a high-performance desktop application designed for creators who need high-quality vector graphics without the complexity of traditional design software. By leveraging the Gemini 1.5 & 2.0 API, it turns text prompts into clean, scalable, and ready-to-use SVG files.
+![App Screenshot](screenshot.png)
 
 🚀 Key Features:
 Local-First Architecture: Your API keys and settings stay on your machine. No cloud logins or data tracking.
