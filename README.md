@@ -1,3 +1,4 @@
+![App Screenshot](screenshot.png)
 🎨 CrftersVector-Pro2: Desktop Vector Studio
 Powered by Gemini AI | Local-First | Professional SVG Generation
 
