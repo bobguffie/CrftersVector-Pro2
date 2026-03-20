@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎨 CrftersVector-Pro2: Desktop Vector Studio
+Powered by Gemini AI | Local-First | Professional SVG Generation
 
-# Run and deploy your AI Studio app
+CrftersVector-Pro2 is a high-performance desktop application designed for creators who need high-quality vector graphics without the complexity of traditional design software. By leveraging the Gemini 1.5 & 2.0 API, it turns text prompts into clean, scalable, and ready-to-use SVG files.
 
-This contains everything you need to run your app locally.
+🚀 Key Features:
+Local-First Architecture: Your API keys and settings stay on your machine. No cloud logins or data tracking.
 
-View your app in AI Studio: https://ai.studio/apps/8577c0dd-9176-4adb-8a32-61ff895e4525
+Multi-OS Support: Built and optimized for Windows (.exe), macOS (.dmg), and Linux (.AppImage).
 
-## Run Locally
+Dual-Tier Logic: Seamlessly toggle between Free Tier and Paid Tier Gemini keys to manage your usage limits.
 
-**Prerequisites:**  Node.js
+Staff-Style UI: A clean, intuitive interface designed to look and feel like a native desktop tool.
 
+Instant Export: Generate, preview, and save vectors directly to your local drive in seconds.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🛠️ How to Get Started:
+Download the latest installer from the Releases tab.
+
+Install and launch the app.
+
+Click the Settings Gear to input your Gemini API Key.
+
+Start creating!
