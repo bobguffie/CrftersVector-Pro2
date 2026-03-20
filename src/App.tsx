@@ -2511,7 +2511,7 @@ export default function App() {
       <header className={`h-16 border-b ${theme === 'dark' ? 'border-stone-800 bg-stone-900' : 'border-stone-200 bg-white'} flex items-center justify-between px-6 z-50 relative shadow-sm transition-colors duration-300`}>
         <div className="flex items-center gap-3">
           <img 
-            src="/logo.png" 
+            src="./logo.png" 
             alt="Crafters Vector Pro" 
             className="h-10 w-auto object-contain crisp-image" 
             referrerPolicy="no-referrer"
